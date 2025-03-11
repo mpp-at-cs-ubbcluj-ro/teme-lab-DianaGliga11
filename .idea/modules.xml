@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tema-lab-2.iml" filepath="$PROJECT_DIR$/Tema-lab-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3-DB.iml" filepath="$PROJECT_DIR$/lab-3-DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab-3-DB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab-3-DB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab-3-DB.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab-3-DB.test.iml" />
+    </modules>
+  </component>
+</project>
